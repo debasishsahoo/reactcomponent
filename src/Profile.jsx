@@ -3,9 +3,9 @@ import React from 'react';
 function Profile() {
 
     return (<>
-        <h1>John Doe</h1>
-        <p className="title">CEO & Founder, Example</p>
-        <p>Harvard University</p>
+        <h1>Debasish Sahoo</h1>
+        <p className="title">Developer</p>
+        <p>MERN STACK</p>
     </>)
         ;
 }
